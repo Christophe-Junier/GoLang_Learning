@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	var vie int = 12 // declared and surcharged in same time
-	fmt.Println(vie) // should prompt 12
+	var life int = 12 // declared and surcharged in same time
+	fmt.Println(life) // should prompt 12
 }

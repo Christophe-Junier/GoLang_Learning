@@ -5,8 +5,8 @@ import (
 )
 
 func main() {
-	var vie, argent, puissance int         // many in one line
-	fmt.Println("vie : ", vie)             // 0
-	fmt.Println("argent : ", argent)       // 0
-	fmt.Println("puissance : ", puissance) // 0
+	var life, monney, power int      // many in one line
+	fmt.Println("life : ", life)     // 0
+	fmt.Println("monney : ", monney) // 0
+	fmt.Println("power : ", power)   // 0
 }

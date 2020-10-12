@@ -5,8 +5,8 @@ import (
 )
 
 func main() {
-	var vie, argent, puissance int = 10, 20, 30 // declaring and assigning many
-	fmt.Println("vie : ", vie)
-	fmt.Println("argent : ", argent)
-	fmt.Println("puissance : ", puissance)
+	var life, monney, power int = 10, 20, 30 // declaring and assigning many
+	fmt.Println("life : ", life)
+	fmt.Println("monney : ", monney)
+	fmt.Println("power : ", power)
 }

@@ -6,12 +6,12 @@ import (
 
 func main() {
 	var ( // method variable usage
-		vie     int     = 20
-		nom     string  = "Default"
-		vitesse float32 = 5.4
+		life  int     = 20
+		name  string  = "Default"
+		speed float32 = 5.4
 	)
 
-	fmt.Println("vie : ", vie)
-	fmt.Println("nom : ", nom)
-	fmt.Println("vitesse : ", vitesse)
+	fmt.Println("life : ", life)
+	fmt.Println("name : ", name)
+	fmt.Println("speed : ", speed)
 }
